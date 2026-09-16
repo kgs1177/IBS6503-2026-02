@@ -1,0 +1,6 @@
+.DS_Store
+.qoka/
+.qoka_plugins/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
