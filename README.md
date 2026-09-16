@@ -55,4 +55,4 @@ IBS6503-2026-02/
 
 | 주차 | 주제 | 노트북 |
 |---|---|---|
-| 3 | 표를 코드로 읽기 | `course/labs/week3/week3_reading.ipynb` |
+| 3 | 저장소 가져오기와 코드 읽기 | `course/labs/week3/week3_reading.ipynb`, `course/labs/week3/top10.py` |
