@@ -65,3 +65,4 @@ IBS6503-2026-02/
 | 4 | NGS 데이터 구조: read에서 유전체 브라우저까지 | `data/week4/`. IGV Desktop(igv.org/download) 설치 필요 |
 | 5 | DESeq2를 이용한 차등발현 분석 | `course/labs/week5/week5_deseq2.ipynb` |
 | 6 | Single-cell RNA-seq | `course/labs/week6/week6_scrna.ipynb`. 데이터(PBMC 3k, GEO GSE96583)는 수업 중에 `data/week6/`로 받음. 인터넷 필요 |
+| 7 | Single-cell multiome: 염색질 접근성과 RNA | `course/labs/week7/week7_multiome.ipynb`. 데이터(10x PBMC 3k multiome, 약 590 MB)는 **수업 전에** 노트북의 준비 셀 3개를 실행해 `data/week7/`로 받음 |
